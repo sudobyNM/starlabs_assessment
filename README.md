@@ -2,6 +2,9 @@
 
 A React-based application for discovering and joining local community events. Built as part of a Frontend Developer Intern assessment.
 
+## Preview 
+![Preview](src/assets/starlabs.png)
+
 ## 🚀 Features
 
 ### Core Features
