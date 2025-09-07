@@ -97,14 +97,7 @@ src/
 - Context API for global state
 - Persistent RSVP tracking
 - Filter state management
-- Event data management
-
-## 📱 Responsive Design
-
-The application is built with a mobile-first approach:
-- **Mobile**: Single column layout, stacked filters
-- **Tablet**: Two-column event grid, horizontal filters
-- **Desktop**: Three-column event grid, full navigation
+- Event data managementS
 
 ## 🎨 UI/UX Features
 
